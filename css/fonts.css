@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'wpshop-core';
+    src: url('../font/wpshop-core.eot');
+    src: url('../font/wpshop-core.eot?#iefix') format('embedded-opentype'),
+        url('../font/wpshop-core.woff2') format('woff2'),
+        url('../font/wpshop-core.woff') format('woff'),
+        url('../font/wpshop-core.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

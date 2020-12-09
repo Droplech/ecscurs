@@ -2355,7 +2355,7 @@ body.scroll-locked {
     font-size: .8em
 }
 
-.wpshoplightbox-container {
+/* .wpshoplightbox-container {
     -webkit-backface-visibility: hidden;
     height: 100%;
     left: 0;
@@ -2369,7 +2369,7 @@ body.scroll-locked {
     transform: translateZ(0);
     width: 100%;
     z-index: 99992
-}
+} */
 
 .wpshoplightbox-bg {
     position: absolute;
@@ -2804,7 +2804,7 @@ a:hover {
     font-style: normal
 }
 
-.comment-list .bypostauthor>.comment-body .comment-author:after,
+/* .comment-list .bypostauthor>.comment-body .comment-author:after,
 .entry-author:before,
 .entry-content blockquote.check:before,
 .entry-content blockquote.danger:before,
@@ -2886,7 +2886,7 @@ a:hover {
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
-}
+} */
 
 .wci-format_quote:before {
     content: "“"
@@ -4219,7 +4219,8 @@ h6 {
     .site-footer-inner,
     .site-header-inner {
         padding-left: 45px;
-        padding-right: 45px
+        padding-right: 45px;
+        padding-top: 45px;
     }
 }
 
